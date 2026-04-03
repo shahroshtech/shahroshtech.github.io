@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shahroshtech.github.io/sitemap.xml
