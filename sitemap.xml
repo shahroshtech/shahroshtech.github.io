@@ -3,51 +3,61 @@
 
   <url>
     <loc>https://shahroshtech.github.io/</loc>
+    <lastmod>2026-04-29</lastmod>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://shahroshtech.github.io/about.html</loc>
+    <lastmod>2026-04-29</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://shahroshtech.github.io/services.html</loc>
+    <lastmod>2026-04-29</lastmod>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://shahroshtech.github.io/contact.html</loc>
+    <lastmod>2026-04-29</lastmod>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://shahroshtech.github.io/web-development.html</loc>
+    <loc>https://shahroshtech.github.io/web-development-patna.html</loc>
+    <lastmod>2026-04-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://shahroshtech.github.io/app-development-patna.html</loc>
+    <lastmod>2026-04-29</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://shahroshtech.github.io/app-development.html</loc>
+    <loc>https://shahroshtech.github.io/digital-marketing-patna.html</loc>
+    <lastmod>2026-04-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://shahroshtech.github.io/seo-services-patna.html</loc>
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://shahroshtech.github.io/qa-testing-services-patna.html</loc>
+    <lastmod>2026-04-29</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://shahroshtech.github.io/digital-marketing.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://shahroshtech.github.io/seo-solutions.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://shahroshtech.github.io/testing-qa.html</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://shahroshtech.github.io/ui-ux-design.html</loc>
+    <loc>https://shahroshtech.github.io/ui-ux-design-patna.html</loc>
+    <lastmod>2026-04-29</lastmod>
     <priority>0.7</priority>
   </url>
 
