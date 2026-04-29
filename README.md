@@ -1,16 +1,21 @@
-## Hi there 👋
+# Shahrosh Tech
 
-<!--
-**shahroshtech/shahroshtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shahrosh Tech is a Freelance Web Development & SEO Company in Patna providing professional website development, SEO services and digital marketing solutions in Bihar & Ranchi.
 
-Here are some ideas to get you started:
+## Our Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website Development in Patna
+- SEO Services in Patna
+- Digital Marketing Services in Bihar
+- QA Testing Services
+
+## Why Choose Us
+
+- Freelance Expert Team
+- Affordable Pricing
+- Local SEO Focus (Patna & Ranchi)
+- Fast & Secure Solutions
+
+## Visit Our Website
+
+👉 https://shahroshtech.github.io/
